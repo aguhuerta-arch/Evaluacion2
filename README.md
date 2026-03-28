@@ -14,3 +14,4 @@ Para ejecutar este script, sigue los siguientes pasos en un entorno Python 3 con
 Asegúrate de que la librería `requests` esté instalada:
 ```bash
 pip install requests
+
